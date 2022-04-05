@@ -14,7 +14,7 @@
 - SQL (Firewall allows IPs)
 - CosmosDB
 - PostgreSQL
-  - **Note:** Can be VNET integrated with Flexible Server
+  - **Note:** can be VNET integrated with Flexible Server
 - Service Bus
 - Redis Cache 
   - **Note:** Redis can be VNET integrated
