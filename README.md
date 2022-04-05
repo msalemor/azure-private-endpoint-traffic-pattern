@@ -1,6 +1,6 @@
 # Inbound/outbound traffic for Azure Services behind Private Endpoints
 
-## Traffic: inbound through private endpoint and outboud through VNET integration
+## Traffic: inbound through private endpoint and optinal outboud through VNET integration
 
 - WebApp
 - Logic Apps
