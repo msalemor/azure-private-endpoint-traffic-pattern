@@ -8,7 +8,7 @@
 
 > **Note:** Check the App Service Plan and SKU. Not all plans support Private Endpoint and VNET integration
 
-## Traffic: inbound/outbound
+## Traffic: inbound/outbound throught the Private Endpoint
 
 - Key Vault
 - SQL (Firewall allows IPs)
