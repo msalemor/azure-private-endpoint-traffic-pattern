@@ -8,10 +8,13 @@
 
 > **Note:** Check the App Service Plan and SKU. Not all plans support Private Endpoint and VNET integration
 
-## Traffic: inbound/outbound:
+## Traffic: inbound/outbound
 
-- Key Vualt
+- Key Vault
 - SQL (Firewall allows IPs)
+- CosmosDB
+- PostgreSQL
+  - **Note:** Can be VNET integrated with Flexible Server
 - Service Bus
 - Redis Cache 
   - **Note:** Redis can be VNET integrated
